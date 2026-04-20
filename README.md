@@ -80,5 +80,3 @@ Week 26: Submission and Publishing
 https://hostafrica.co.za/blog/websites/website-basics/how-much-does-a-website-cost-in-south-africa/
 
 Pexels (2025). Free Stock Photos. [online] Pexels.com. Available at: https://www.pexels.com/.
-
-[def]: 
