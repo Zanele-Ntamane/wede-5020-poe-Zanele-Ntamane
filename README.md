@@ -70,8 +70,8 @@ Week 26: Submission and Publishing
 
 ## Sitemap
 
-![Website Sitemap](img/sitemap.jpg) <br>
-<img src"img/sitemap">
+<img width="801" height="391" alt="sitemap1" src="https://github.com/user-attachments/assets/1829c1d2-a317-4240-9b12-5b5efc221448" />
+
 
 
 
@@ -80,3 +80,5 @@ Week 26: Submission and Publishing
 https://hostafrica.co.za/blog/websites/website-basics/how-much-does-a-website-cost-in-south-africa/
 
 Pexels (2025). Free Stock Photos. [online] Pexels.com. Available at: https://www.pexels.com/.
+
+[def]: 
