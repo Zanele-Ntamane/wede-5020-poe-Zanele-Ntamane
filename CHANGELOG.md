@@ -6,10 +6,12 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-- xyz
+- I added stylesheet css to my project
+- I added the screenshots of evidence for the different devices on chromo DevTools
 
 ### Changed
-- xyz
+- I changed my footer and added icons for the socials.
+  
 
 ### Fixed
 - xyz
