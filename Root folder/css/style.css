@@ -8,10 +8,14 @@ video {
     
 }
 
-.header {
-    position: absolute;
-    top: 0%;
-    left: 0%;
+/* Logo styles */
+.logo img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+/* Navigation tables */
+.table {
     width: 100%;
     height: 100%;
     display: flex;
