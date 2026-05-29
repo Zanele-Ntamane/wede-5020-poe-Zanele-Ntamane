@@ -74,6 +74,11 @@ validate the efficiency of our remedies <br>
 
 <img width="801" height="391" alt="sitemap1" src="https://github.com/user-attachments/assets/1829c1d2-a317-4240-9b12-5b5efc221448" />
 
+## Screenshot evidence of different screen sizes
+<img ![alt text](<Root folder/img/mobile.png.png>)
+<img ![alt text](<Root folder/img/ipad.png.png>)  >
+<im![alt text](<Root folder/img/ipad.png.png>)g >
+
 
 
 

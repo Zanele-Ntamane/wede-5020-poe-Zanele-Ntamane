@@ -281,8 +281,12 @@ iframe{
     margin: 20px 0;
 }
 
-.contact form {
+
+
+.contact form
+{
     margin: 0 auto;
+
 }
 /* about section */
 .about-section {
@@ -440,6 +444,36 @@ h2 ::after {
 
         }
     }
+
+    @media(max-width:768px){
+        .container {
+            padding: 0%;
+            sidebar{
+                display: none;
+                font-size:clamp ( 1rem, 2.5vw, 1.5rem);
+                height: auto; }  
+             }
+         }
+         
+         
+         body{
+            font-size: 1 rem;
+         }
+         
+         @media ( min-width:768px)
+         { body
+        {
+            font-size: 1.1rem;
+        }
+    }
+
+    @media(min-width:1024px)
+    {
+        body {
+            font-size: 1.2rem;
+        }
+    }
+
 
     
 
