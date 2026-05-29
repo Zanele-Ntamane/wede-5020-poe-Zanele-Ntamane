@@ -77,7 +77,7 @@ validate the efficiency of our remedies <br>
 ## Screenshot evidence of different screen sizes
 <img ![alt text](<Root folder/img/mobile.png.png>)
 <img ![alt text](<Root folder/img/ipad.png.png>)  >
-<im![alt text](<Root folder/img/ipad.png.png>)g >
+<im![alt text](<Root folder/img/ipad.png.png>) >
 
 
 
