@@ -73,6 +73,11 @@ validate the efficiency of our remedies <br>
 ## Sitemap
 
 <img width="801" height="391" alt="sitemap1" src="https://github.com/user-attachments/assets/1829c1d2-a317-4240-9b12-5b5efc221448" />
+<img <img width="894" height="768" alt="ipad png" src="https://github.com/user-attachments/assets/9cc4cd6c-f476-4688-bf5f-1948fdee98e2" />
+<img <img width="894" height="768" alt="desktop png" src="https://github.com/user-attachments/assets/67cc3571-f57e-4729-82cc-7c725d288fe1" />
+<img <img width="526" height="531" alt="mobile png" src="https://github.com/user-attachments/assets/40f2bb53-b05a-4d0a-be16-f487d38e2004" />
+
+
 
 
 
