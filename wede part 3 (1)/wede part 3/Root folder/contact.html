@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact Us | ROOTD in UBUNTU</title>
+    <meta name="description" content="Reach out to ROOTD in UBUNTU via phone, email, or visit our location in Harrismith." />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" />
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <a href="Cart.html" class="cart-icon"><i class="fa-solid fa-cart-shopping"></i><span class="cart-count" id="cart-count-header">0</span></a>
+            <a href="Home.html"><img src="img/logo.jpg" alt="ROOTD in UBUNTU logo" width="80" /></a>
+            <h1>ROOTD in UBUNTU</h1>
+        </div>
+        <nav>
+            <table class="nav-table" border="0" width="100%">
+                <tr>
+                    <td><a href="Home.html">Home</a></td>
+                    <td><a href="About.html">About us</a></td>
+                    <td><a href="Products.html">Products</a></td>
+                    <td><a href="Inquiry.html">Inquiry</a></td>
+                    <td><a href="contact.html">Contact Us</a></td>
+                </tr>
+            </table>
+        </nav>
+    </header>
+
+    <main class="contact-section">
+        <h2>Contact Us</h2>
+        <p><strong>Email:</strong> <a href="mailto:contact@rootd.com">contact@rootd.com</a></p>
+        <p><strong>Phone:</strong> <a href="tel:+27832342286">+27 83 234 2286</a></p>
+        <p><strong>Address:</strong> The Harri Lifestyle Centre, Corner of King & Mckechnie St, Harrismith, 9880, South Africa</p>
+
+        <h3>Our Location</h3>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3513.38772081366!2d29.13401!3d-28.2865769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ef29fb01439dda9%3A0x36baf801b8c70fc9!2sThe%20Harri%20Lifestyle%20Centre!5e0!3m2!1sen!2sza!4v1776357901062!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google Maps location of ROOTD in UBUNTU"></iframe>
+
+        <h4>Send us a message</h4>
+        <form id="contact-form" novalidate>
+            <div class="form-group">
+                <label for="cont-fname">First name *</label>
+                <input type="text" id="cont-fname" name="fname" required minlength="2" />
+                <span class="error-msg" id="cont-fname-error"></span>
+            </div>
+            <div class="form-group">
+                <label for="cont-lname">Last name *</label>
+                <input type="text" id="cont-lname" name="lname" required minlength="2" />
+                <span class="error-msg" id="cont-lname-error"></span>
+            </div>
+            <div class="form-group">
+                <label for="cont-email">Email *</label>
+                <input type="email" id="cont-email" name="email" required />
+                <span class="error-msg" id="cont-email-error"></span>
+            </div>
+            <div class="form-group">
+                <label for="cont-subject">Subject</label>
+                <input type="text" id="cont-subject" name="subject" />
+            </div>
+            <div class="form-group">
+                <label for="cont-message">Message *</label>
+                <textarea id="cont-message" name="message" required minlength="10"></textarea>
+                <span class="error-msg" id="cont-message-error"></span>
+            </div>
+            <button type="submit">Send Message</button>
+            <div id="cont-form-feedback" class="form-feedback"></div>
+        </form>
+    </main>
+
+    <footer>
+        <hr />
+        <h3>Follow us on social media</h3>
+        <div class="social-icons">
+            <a href="https://www.instagram.com/aug_the_blithe" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            <a href="http://www.tiktok.com/@aug_the_blithe" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+            <a href="whatsapp://send?phone=+27832342286"><i class="fa-brands fa-whatsapp"></i></a>
+            <a href="mailto:info@rootdinubuntu.com"><i class="fa-solid fa-envelope"></i></a>
+        </div>
+        <p>&copy; 2026 ROOTD in UBUNTU. All rights reserved.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script src="js/cart.js"></script>
+</body>
+</html>
